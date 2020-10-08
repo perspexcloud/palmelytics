@@ -17,7 +17,7 @@ import io.netty.buffer.DrillBuf;
         scope= FunctionTemplate.FunctionScope.SIMPLE,
         nulls = FunctionTemplate.NullHandling.NULL_IF_NULL
 )
-public class DrillBabyDrill implements DrillSimpleFunc {
+public class MyUdf01 implements DrillSimpleFunc {
 
     @Param
     NullableVarCharHolder input;
