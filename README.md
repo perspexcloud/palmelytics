@@ -1,6 +1,8 @@
 # palmelytics
 
-![progress but restropect](img/HeDontLyycit.jpeg) THERE'S A WIGGLY RED LINE LYDON!!!!
+![progress but restropect](img/HeDontLyycit.jpeg)
+
+THERE'S A WIGGLY RED LINE LYDON!!!!
 
 	- The type io.netty.buffer.ByteBuf cannot be resolved. It is indirectly referenced from required .class files
 	- The type io.netty.buffer.AbstractByteBuf cannot be resolved. It is indirectly referenced from required .
